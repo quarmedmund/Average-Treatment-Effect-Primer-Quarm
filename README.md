@@ -1,2 +1,2 @@
 # Average-Treatment-Effect-Primer-Quarm
-An introduction to average treatment effect with IPTW weighting for causal analysis
+An introduction to average treatment effect with Inverse Probability Treatment weighting for causal analysis. The functions are annotated for an easy walk through. For the interested reader the formulas for ATE with the differing weights are taken from Lunceford, J.K. and Davidian, M., 2004. Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study.
